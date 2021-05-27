@@ -16,6 +16,6 @@ public class FindMinAddToValidFunction {
             }
         }
         
-        return leftBracket + rightBracket;
+        return leftBracket + rightBracket; // Add total
     }
 }
